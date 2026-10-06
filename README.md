@@ -87,3 +87,9 @@ real-world sales data and generate meaningful business insights.
 
 The project also demonstrates practical knowledge of database creation,
 data analysis, aggregation, joins, filtering, and business-oriented SQL queries.
+
+<img width="1365" height="719" alt="image" src="https://github.com/user-attachments/assets/f0dc1427-3f77-451b-b1e8-d01f82a907b2" />
+<img width="1506" height="964" alt="image" src="https://github.com/user-attachments/assets/36486cf4-7b09-4a45-a567-b43d7ec62c75" />
+
+<img width="2558" height="1349" alt="image" src="https://github.com/user-attachments/assets/a3d8520a-fd20-4bbe-8fe4-4791150f7d85" />
+
